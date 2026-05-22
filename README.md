@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marwan Al‑Jaufy
+# 👋 Hi, I’m Marwan
 
 🎓 **4th Year Software Engineering Student (Security Stream)**  
 Lassonde School of Engineering, York University  
