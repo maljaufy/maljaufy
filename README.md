@@ -43,18 +43,20 @@ https://www.linkedin.com/in/marwan-al-jaufy-935330166/
 
 ## 📂 Featured Projects
 
+### **🎮 PlayCheck — Mobile Game Review & Discovery App**
+A collaborative Android application that allows users to browse, review, and track games with a clean UI and structured data handling.
+Tech: Java, Android Studio, Firebase, GitHub Collaboration
+🔗 https://github.com/hvpham-yorku/PlayCheck
+
+### **📅 EECS3311 YorkU Lab Equipment Reservation Platform — Software Design Project**
+A reservation management system built as part of a software design course, focusing on object‑oriented principles, clean architecture, and collaborative development.
+Tech: Java, OOP, Design Patterns, GitHub
+🔗 https://github.com/egeyesss/eecs3311-reservation
+
 ### **🌐 WebImageGeoFetcher**
 Extracts image URLs from a webpage, resolves server IP → country, and downloads images into country‑named folders.  
 **Tech:** Java, Jsoup, Networking, APIs, GitHub  
-🔗 *Add your repo link here*
-
-### **📱 Android Applications (Java)**
-Multiple Android apps built using Java and Android Studio, focusing on UI/UX, data handling, and secure coding practices.  
-🔗 *Add your repo link here*
-
-### **🔐 Security Stream Coursework Projects**
-Projects involving secure coding, OS fundamentals, network protocols, and embedded systems.  
-🔗 *Add your repo link here*
+🔗 https://github.com/maljaufy/WebImageGeoFetcher
 
 ---
 
