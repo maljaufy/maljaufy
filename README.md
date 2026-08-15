@@ -4,10 +4,12 @@
 Lassonde School of Engineering, York University  
 
 💻 **Security‑Focused Developer** with experience in:  
-- **Java & Android Development**  
+- **Java & Android Development**
+- **Spring Boot & Vaadin Development**
+- **Embedded Systems & IoT (Raspberry Pi Pico 2 W)**
 - **C, Bash, Verilog, MATLAB**  
-- **PostgreSQL & Database‑Driven Applications**  
-- **GitHub for Version Control & Collaboration**  
+- **PostgreSQL, Redis & Database‑Driven Applications**  
+- **GitHub for Version Control & Collaborative Software Development**  
 
 🔐 Passionate about integrating **security throughout the entire SDLC**, including secure coding practices, threat modeling, and building resilient, user‑centered systems.
 
@@ -31,6 +33,8 @@ https://www.linkedin.com/in/marwan-al-jaufy-935330166/
 
 ### **Languages & Tools**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge\&logo=vaadin\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -42,6 +46,16 @@ https://www.linkedin.com/in/marwan-al-jaufy-935330166/
 ---
 
 ## 📂 Featured Projects
+
+### **🏠 Smart Home Automation Controller**
+An embedded IoT automation system built around the Raspberry Pi Pico W, featuring Wi‑Fi networking, HTTP‑based device control, sensor integration, and actuator management. The project demonstrates embedded networking, real‑time automation, and microcontroller‑based IoT architecture.
+Tech: C, Java, Raspberry Pi Pico W, Wi‑Fi Networking, HTTP, Embedded Systems
+🔗 https://github.com/maljaufy/Smart_Home_Automation_Controller
+
+### **🌐 Readit — Social Discussion Platform**
+A collaborative full‑stack discussion platform developed using Spring Boot, PostgreSQL, Kafka, Redis, and Vaadin. The application supports user authentication, nested discussions, voting systems, and real‑time updates through an event‑driven backend architecture.
+Tech: Java, Spring Boot, PostgreSQL, Kafka, Redis, Vaadin, JPA/Hibernate
+🔗 https://github.com/maljaufy/EECS4312-GROUP_2_PROJECT-Readit-S26
 
 ### **🎮 PlayCheck — Mobile Game Review & Discovery App**
 A collaborative Android application that allows users to browse, review, and track games with a clean UI and structured data handling.
